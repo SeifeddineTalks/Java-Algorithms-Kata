@@ -17,5 +17,4 @@ public class SquareSum {
 
         System.out.println("Test 1 {1,2,2}: " + squareSum(new int[] {1,2,2}));
     }
-
 }
